@@ -15,3 +15,9 @@ deno task start
 ```
 
 This will watch the project directory and restart as necessary.
+
+Basic deployment for Deno
+[Deno Deploy](https://deno.com/deploy)
+
+[My ultra basic project](https://fresh-deno-ist-xsyyjzdtn7jg.deno.dev/)
+
